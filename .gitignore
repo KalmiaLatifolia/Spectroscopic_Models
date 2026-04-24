@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+.history/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data artifacts / pickles
+*.pkl
+*.pickle
+
+# OneDrive / sync metadata
+~$*
+Thumbs.db
+ehthumbs.db
